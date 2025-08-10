@@ -9,7 +9,7 @@ import geopy.exc
 # Twilio credentials
 TWILIO_SID = "AC65825afdb0ced54b7b9592xxxxxxxxxx"
 TWILIO_AUTH_TOKEN = "1bfb8ac4136fd98aa953e9xxxxxxxxxx"
-TWILIO_PHONE_NUMBER = "+1 715 908 9623"
+TWILIO_PHONE_NUMBER = "+1 xxx xxx xxxx"
 EMERGENCY_CONTACT = "+91xxxxxxxxxx"
 
 # Initialize Twilio client
