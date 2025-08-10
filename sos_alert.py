@@ -7,10 +7,10 @@ from geopy.geocoders import Nominatim
 import geopy.exc
 
 # Twilio credentials
-TWILIO_SID = "AC65825afdb0ced54b7b95923e1239b644"
-TWILIO_AUTH_TOKEN = "1bfb8ac4136fd98aa953e965b20c037f"
+TWILIO_SID = "AC65825afdb0ced54b7b9592xxxxxxxxxx"
+TWILIO_AUTH_TOKEN = "1bfb8ac4136fd98aa953e9xxxxxxxxxx"
 TWILIO_PHONE_NUMBER = "+1 715 908 9623"
-EMERGENCY_CONTACT = "+919021484187"
+EMERGENCY_CONTACT = "+91xxxxxxxxxx"
 
 # Initialize Twilio client
 client = Client(TWILIO_SID, TWILIO_AUTH_TOKEN)
